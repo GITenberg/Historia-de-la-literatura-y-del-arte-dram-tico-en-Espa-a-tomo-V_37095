@@ -24,6 +24,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31713
     wikipedia: http://en.wikipedia.org/wiki/Adolf_Friedrich_von_Schack
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37095#Historia-de-la-literatura-y-del-arte-dram-tico-en-Espa-a-tomo-V
 gutenberg_issued: '2011-08-15'
 gutenberg_type: Text
 identifiers:
