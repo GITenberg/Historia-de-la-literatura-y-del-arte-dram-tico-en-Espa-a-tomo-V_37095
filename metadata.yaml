@@ -1,0 +1,39 @@
+_repo: Historia-de-la-literatura-y-del-arte-dram-tico-en-Espa-a-tomo-V_37095
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Mier, Eduardo de
+    aliases:
+    - Barbery, Eduardo de Mier y
+    - De Mier, Eduardo
+    birthdate: 1829
+    gutenberg_agent_id: '31718'
+    url: http://www.gutenberg.org/2009/agents/31718
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Schack, Adolf Friedrich von
+    aliases:
+    - Schack, Adolf Friedrich, Graf von
+    - Von Schack, Adolf Friedrich
+    birthdate: 1815
+    deathdate: 1894
+    gutenberg_agent_id: '31713'
+    url: http://www.gutenberg.org/2009/agents/31713
+    wikipedia: http://en.wikipedia.org/wiki/Adolf_Friedrich_von_Schack
+description: ''
+gutenberg_issued: '2011-08-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37095'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Spanish drama -- History and criticism'
+- !lcc 'PQ'
+title: Historia de la literatura y del arte dramático en España, tomo V
+url: http://www.gutenberg.org/ebooks/37095
